@@ -51,6 +51,6 @@ Name: pakchunk1007optional-WindowsClient.pak
 Guid: D517F2A448CCB9B47E5004894BC62ACF
 AES: a8e750511f75b32b2a0d110b3a0cff61567b3e269ef21a9cae7616f747d7b6f5
 
-AES Provided by: xdFNLeaks
+AES Provided by: akamrseth
 ----------------------------------------
 https://twitter.com/akamrseth
