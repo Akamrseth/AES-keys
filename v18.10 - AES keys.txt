@@ -1,0 +1,27 @@
+pakchunk1009optional-WindowsClient.ucas: 
+0xa8e750511f75b32b2a0d110b3a0cff61567b3e269ef21a9cae7616f747d7b6f5
+
+pakchunk1009optional-WindowsClient.pak: 
+0xa8e750511f75b32b2a0d110b3a0cff61567b3e269ef21a9cae7616f747d7b6f5
+
+pakchunk1010-WindowsClient.ucas: 
+0x3718ed6571dee3dc42d73515b3e5ca8c76de89cde9ae414e5a6c24690d6f385c
+
+pakchunk1010-WindowsClient.pak: 
+0x3718ed6571dee3dc42d73515b3e5ca8c76de89cde9ae414e5a6c24690d6f385c
+
+pakchunk1010optional-WindowsClient.ucas: 
+0x3718ed6571dee3dc42d73515b3e5ca8c76de89cde9ae414e5a6c24690d6f385c
+
+pakchunk1010optional-WindowsClient.pak: 
+0x3718ed6571dee3dc42d73515b3e5ca8c76de89cde9ae414e5a6c24690d6f385c
+
+pakchunk1011-WindowsClient.ucas: 
+0xdd2a474e84eed84fff41ef0386ee08de41b97cba847a63222fed8dc5154a74e7
+
+pakchunk1011-WindowsClient.pak: 
+0xdd2a474e84eed84fff41ef0386ee08de41b97cba847a63222fed8dc5154a74e7
+
+AES Provided by: akamrseth
+----------------------------------------
+https://twitter.com/akamrseth
