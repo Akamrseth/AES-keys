@@ -147,6 +147,6 @@ Name: pakchunk1008optional-WindowsClient.pak
 Guid: F044853E82632E827ED91FB4AFBD28DF
 AES: 2c7d695d0d77284a187f1c729402e7f23692d2dffb22b5515663bc51789e6955
 
-AES Provided by: xdFNLeaks
+AES Provided by: akamrseth
 ----------------------------------------
-https://twitter.com/xdFNLeaks
+https://twitter.com/akamrseth
